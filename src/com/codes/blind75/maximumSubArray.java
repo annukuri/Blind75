@@ -1,6 +1,6 @@
-package com.codes;
+package com.codes.blind75;
 
-public class maximumSubarray 
+public class maximumSubArray 
 {
     public int maxSubArray(int[] nums) 
     {
