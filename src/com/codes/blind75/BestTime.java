@@ -1,7 +1,5 @@
 package com.codes.blind75;
 
-import java.util.*;
-
 public class BestTime 
 {
 	public int maxProfit(int[] prices) {
